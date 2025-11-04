@@ -1,0 +1,9 @@
+# Pycache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VSCode
+.vscode/
+# MacOS
+.DS_Store
